@@ -1,0 +1,7 @@
+numpy
+cuda-python
+Pillow; python_version<"3.6"
+Pillow==9.0.1; python_version>="3.6"
+onnx==1.12.0
+onnxruntime==1.12.0
+git+https://github.com/NVIDIA/TensorRT#subdirectory=tools/onnx-graphsurgeon
